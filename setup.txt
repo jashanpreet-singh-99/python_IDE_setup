@@ -1,0 +1,17 @@
+++ Atom IDE
+
+apm install linter
+pip install flake8
+apm install linter-flake8
+apm install autocomplete-python
+pip install autopep8
+apm insatll python-autopep8
+apm install python-autopep8
+apm install script
+apm install atom-file-icons
+apm insatll atom-material-syntax
+apm install atom-material-syntax
+apm install minimap
+apm install minimap-git-diff
+apm install minimap-highlight-selected 
+++ kite addon
