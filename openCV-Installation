@@ -33,3 +33,6 @@ sudo make install
 # To check the insallation
 pkg-config --modversion opencv4
 python3 -c "import cv2; print(cv2.__version__)"
+
+# Fix path incorrect path referencing due to build
+sudo ln -s /usr/local/include/opencv4/opencv2 /usr/local/include/opencv2
